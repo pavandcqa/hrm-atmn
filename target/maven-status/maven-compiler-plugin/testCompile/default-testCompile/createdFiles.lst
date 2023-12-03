@@ -1,0 +1,7 @@
+testcases\AdminTestCases.class
+base\TestBase.class
+pageobjects\LoginPageObjects.class
+pageobjects\AdminPageObjects.class
+testcases\LoginPageTestCases.class
+util\ConfigReader.class
+pageobjects\DashboardPage.class
